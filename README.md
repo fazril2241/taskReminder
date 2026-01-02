@@ -38,9 +38,9 @@ to-do-list/
 
 2. Jalankan program:
    ```bash
-   python taskReminder.git
+   python taskReminder.py
    or
-   py taskReminder.git
+   py taskReminder.py
    ```
 
 3. Atau jika menggunakan file yang sudah ada, cukup jalankan file Python yang berisi kode program.
