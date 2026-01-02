@@ -148,4 +148,4 @@ Program ini dilisensikan di bawah [Apache License](LICENSE).
 ---
 
 Dibuat dengan ❤️ untuk memudahkan manajemen tugas sehari-hari  
-© 2024 Tim Pengembang C8
+© 2026 Tim Pengembang C8
