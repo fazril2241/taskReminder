@@ -33,7 +33,7 @@ to-do-list/
 1. Clone atau download repository:
    ```bash
    git clone https://github.com/fazril2241/taskReminder.git
-   cd to-do-list
+   cd taskReminder
    ```
 
 2. Jalankan program:
