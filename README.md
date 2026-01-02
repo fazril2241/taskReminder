@@ -1,9 +1,9 @@
- 📋 TO-DO LIST APPLICATION
+ 📋 TaskReminder APPLICATION
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue?style=flat-square)
 ![License](http://www.apache.org/licenses/)
 
-Aplikasi To-Do List sederhana berbasis Python yang memungkinkan pengguna untuk mengelola tugas sehari-hari dengan mudah. Program ini menyimpan data tugas ke file eksternal sehingga data tetap tersimpan meskipun program ditutup.
+Aplikasi TaskReminder sederhana berbasis Python yang memungkinkan pengguna untuk mengelola tugas sehari-hari dengan mudah. Program ini menyimpan data tugas ke file eksternal sehingga data tetap tersimpan meskipun program ditutup.
 
 🌟 Fitur Utama
 
