@@ -32,13 +32,15 @@ to-do-list/
 
 1. Clone atau download repository:
    ```bash
-   git clone https://github.com/username/to-do-list.git
+   git clone https://github.com/fazril2241/taskReminder.git
    cd to-do-list
    ```
 
 2. Jalankan program:
    ```bash
-   python program.py
+   python taskReminder.git
+   or
+   py taskReminder.git
    ```
 
 3. Atau jika menggunakan file yang sudah ada, cukup jalankan file Python yang berisi kode program.
