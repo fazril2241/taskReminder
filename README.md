@@ -22,7 +22,7 @@ Aplikasi TaskReminder sederhana berbasis Python yang memungkinkan pengguna untuk
  📂 Struktur File
 
 ```
-to-do-list/
+taskReminder/
 ├── todolist            File penyimpanan data tugas (akan dibuat otomatis)
 ├── program.py          File kode program utama
 └── README.md           Dokumentasi ini
